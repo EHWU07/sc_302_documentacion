@@ -1,2 +1,3 @@
 console.log('Hola, mundo!');
-console.log('Eddy Huang Wu');
+Este es un ejercicio de Git y Github
+console.log('Eddy Huang Wu');   
